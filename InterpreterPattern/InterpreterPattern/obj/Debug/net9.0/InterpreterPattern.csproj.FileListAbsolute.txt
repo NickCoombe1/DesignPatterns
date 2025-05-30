@@ -1,0 +1,14 @@
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\bin\Debug\net9.0\InterpreterPattern.exe
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\bin\Debug\net9.0\InterpreterPattern.deps.json
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\bin\Debug\net9.0\InterpreterPattern.runtimeconfig.json
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\bin\Debug\net9.0\InterpreterPattern.dll
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\bin\Debug\net9.0\InterpreterPattern.pdb
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\obj\Debug\net9.0\InterpreterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\obj\Debug\net9.0\InterpreterPattern.AssemblyInfoInputs.cache
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\obj\Debug\net9.0\InterpreterPattern.AssemblyInfo.cs
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\obj\Debug\net9.0\InterpreterPattern.csproj.CoreCompileInputs.cache
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\obj\Debug\net9.0\InterpreterPattern.dll
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\obj\Debug\net9.0\refint\InterpreterPattern.dll
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\obj\Debug\net9.0\InterpreterPattern.pdb
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\obj\Debug\net9.0\InterpreterPattern.genruntimeconfig.cache
+C:\Users\nick.coombe\RiderProjects\InterpreterPattern\InterpreterPattern\obj\Debug\net9.0\ref\InterpreterPattern.dll

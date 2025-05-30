@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{C096F0C3-0B2C-48F4-8FA0-6F7D7E66A22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C096F0C3-0B2C-48F4-8FA0-6F7D7E66A22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C096F0C3-0B2C-48F4-8FA0-6F7D7E66A22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C096F0C3-0B2C-48F4-8FA0-6F7D7E66A22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C096F0C3-0B2C-48F4-8FA0-6F7D7E66A22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

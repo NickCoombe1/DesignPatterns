@@ -1,0 +1,14 @@
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\bin\Debug\net9.0\ProxyMethod.exe
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\bin\Debug\net9.0\ProxyMethod.deps.json
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\bin\Debug\net9.0\ProxyMethod.runtimeconfig.json
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\bin\Debug\net9.0\ProxyMethod.dll
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\bin\Debug\net9.0\ProxyMethod.pdb
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\obj\Debug\net9.0\ProxyMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\obj\Debug\net9.0\ProxyMethod.AssemblyInfoInputs.cache
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\obj\Debug\net9.0\ProxyMethod.AssemblyInfo.cs
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\obj\Debug\net9.0\ProxyMethod.csproj.CoreCompileInputs.cache
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\obj\Debug\net9.0\ProxyMethod.dll
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\obj\Debug\net9.0\refint\ProxyMethod.dll
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\obj\Debug\net9.0\ProxyMethod.pdb
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\obj\Debug\net9.0\ProxyMethod.genruntimeconfig.cache
+C:\Users\nick.coombe\RiderProjects\ProxyMethod\ProxyMethod\obj\Debug\net9.0\ref\ProxyMethod.dll

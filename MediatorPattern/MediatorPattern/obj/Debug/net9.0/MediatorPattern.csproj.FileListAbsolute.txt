@@ -1,0 +1,14 @@
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\bin\Debug\net9.0\MediatorPattern.exe
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\bin\Debug\net9.0\MediatorPattern.deps.json
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\bin\Debug\net9.0\MediatorPattern.runtimeconfig.json
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\bin\Debug\net9.0\MediatorPattern.dll
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\bin\Debug\net9.0\MediatorPattern.pdb
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\obj\Debug\net9.0\MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\obj\Debug\net9.0\MediatorPattern.AssemblyInfoInputs.cache
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\obj\Debug\net9.0\MediatorPattern.AssemblyInfo.cs
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\obj\Debug\net9.0\MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\obj\Debug\net9.0\MediatorPattern.dll
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\obj\Debug\net9.0\refint\MediatorPattern.dll
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\obj\Debug\net9.0\MediatorPattern.pdb
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\obj\Debug\net9.0\MediatorPattern.genruntimeconfig.cache
+C:\Users\nick.coombe\RiderProjects\MediatorPattern\MediatorPattern\obj\Debug\net9.0\ref\MediatorPattern.dll

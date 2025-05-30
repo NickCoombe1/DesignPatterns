@@ -1,0 +1,14 @@
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.exe
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.deps.json
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.runtimeconfig.json
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.dll
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\bin\Debug\net9.0\StrategyPattern.pdb
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.dll
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\obj\Debug\net9.0\refint\StrategyPattern.dll
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.pdb
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\obj\Debug\net9.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\nick.coombe\RiderProjects\StrategyPattern\StrategyPattern\obj\Debug\net9.0\ref\StrategyPattern.dll

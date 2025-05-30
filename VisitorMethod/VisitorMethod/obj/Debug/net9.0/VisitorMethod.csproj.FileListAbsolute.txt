@@ -1,0 +1,14 @@
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\bin\Debug\net9.0\VisitorMethod.exe
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\bin\Debug\net9.0\VisitorMethod.deps.json
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\bin\Debug\net9.0\VisitorMethod.runtimeconfig.json
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\bin\Debug\net9.0\VisitorMethod.dll
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\bin\Debug\net9.0\VisitorMethod.pdb
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\obj\Debug\net9.0\VisitorMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\obj\Debug\net9.0\VisitorMethod.AssemblyInfoInputs.cache
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\obj\Debug\net9.0\VisitorMethod.AssemblyInfo.cs
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\obj\Debug\net9.0\VisitorMethod.csproj.CoreCompileInputs.cache
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\obj\Debug\net9.0\VisitorMethod.dll
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\obj\Debug\net9.0\refint\VisitorMethod.dll
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\obj\Debug\net9.0\VisitorMethod.pdb
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\obj\Debug\net9.0\VisitorMethod.genruntimeconfig.cache
+C:\Users\nick.coombe\RiderProjects\VisitorMethod\VisitorMethod\obj\Debug\net9.0\ref\VisitorMethod.dll
